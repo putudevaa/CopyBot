@@ -1,1 +1,7 @@
-
+{
+      "internet_access": true,
+      "filesystem_read": true,
+      "filesystem_write": false,
+      "shell_execution": false,
+      "sensitive_actions": false
+}
